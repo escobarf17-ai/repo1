@@ -1,0 +1,19 @@
+# Escribe un programa que tome dos números como entrada, luego los sume y muestre el resultado.
+# Recuerda: Este proyecto será calificado automáticamente, ¡y las computadoras son muy literales!
+
+# Si completas esta tarea, por favor intenta agregar las siguientes funcionalidades:
+
+# Tomar dos números y restar el segundo del primero.
+
+# Tomar dos números y multiplicarlos.
+
+# Tomar dos números y dividir el primero entre el segundo.
+
+# Tomar dos números y realizar una operación módulo (residuo).
+
+# Permitir que los usuarios elijan qué operación desean realizar con dos números.
+
+# Tomar 3 números y sumarlos.
+
+# Permitir que los usuarios combinen operaciones con 3 números o más,
+# por ejemplo: 2 + 4 - 3, 4 * 5 + 1 / 3.
